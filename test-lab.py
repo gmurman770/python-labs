@@ -1,3 +1,3 @@
 # check it out
 
-print("Hell, GitHub!")
+print("Hello, GitHub!")
